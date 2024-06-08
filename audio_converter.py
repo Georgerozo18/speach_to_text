@@ -53,4 +53,4 @@ def transcribe_audio(file_path):
 
     print("Transcripción completa. Guardada en 'transcripcion.txt'.")
 # Utilizar el conversor de audio
-transcribe_audio('./transcripcion.wav')
+transcribe_audio('./your_audio.wav')

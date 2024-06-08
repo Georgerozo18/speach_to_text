@@ -53,4 +53,4 @@ def transcribe_audio(file_path):
     print("Transcripción completa. Guardada en 'transcripcion.txt'.")
 
 # Ejemplo de uso con un archivo MP3
-transcribe_audio('./ai_steward_pro.wav')
+transcribe_audio('./your_audio.wav')
